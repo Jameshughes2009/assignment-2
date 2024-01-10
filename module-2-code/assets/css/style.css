@@ -1,0 +1,7 @@
+:root {
+    --dark: #13293d;
+}
+
+body {
+    display: flex;
+}
