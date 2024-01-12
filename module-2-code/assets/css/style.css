@@ -62,3 +62,15 @@ h1 {
     height: auto;
     border: 1px solid black;
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+    background-color: red;
+    color: blue;
+}
+
+ul {
+   color: aquamarine; 
+}
