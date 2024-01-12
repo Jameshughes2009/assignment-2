@@ -1,5 +1,5 @@
-:root {
-    --dark: #13293d;
+* {
+    box-sizing: border-box;
 }
 
 body {
@@ -10,10 +10,51 @@ body {
 
 header {
     display: flex;
+    padding: flex;
+    color: rgb(0, 0, 0);
     background-color: blueviolet;
+    text-align: center;
+    justify-content: space-between;
+    padding: auto;
 
+}
+nav {
+    background-color: black;
+}
+
+
+nav p {
+    padding: 14px 20px;
+    background-color: brown;
+    text-align: center
+}
+
+nav ul {
+    display: flex;
+    min-width: 300px;
+    justify-content: space-between;
+    text-decoration: none;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+aside {
+    flex: 30%;
+    background-color: rgb(235, 235, 246);
+    padding: 20px;
+    flex-wrap: wrap;
 }
 
 h1 {
     font-size: 100%;
+}
+
+.sample-img {
+    background-color: blueviolet;
+    width: 100%;
+    padding: 20px;
+    height: auto;
+    border: 1px solid black;
 }
