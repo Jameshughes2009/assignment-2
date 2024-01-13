@@ -95,7 +95,16 @@ u2 {
 }
 .Surf {
     border-style: solid;
+
 }
 
 .Surf img {
+}
+
+@media screen and (max-width: 768px) {
+    main,
+    nav {
+        flex-direction: column;
+
+    }
 }
