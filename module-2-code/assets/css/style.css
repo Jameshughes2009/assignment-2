@@ -12,7 +12,7 @@ header {
     display: flex;
     padding: flex;
     color: rgb(126, 44, 44);
-    background-color: blueviolet;
+    background-color: rgb(255, 0, 0);
     text-align: center;
     justify-content: space-between;
     padding: auto;
@@ -48,10 +48,9 @@ main{
 
 }
 aside {
-    flex: 30%;
+    flex: 1;
     background-color: rgb(14, 14, 158);
     padding: 20px;
-    flex-wrap: wrap;
 }
 
 h1 {
@@ -76,7 +75,7 @@ footer {
 }
 
 u2 {
-   color: aquamarine; 
+   color: rgb(13, 156, 108); 
    font-size: large;
    justify-content: space-between;
 }
