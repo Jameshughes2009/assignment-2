@@ -18,8 +18,11 @@ header {
     padding: auto;
 
 }
+header h1 {
+background-color: blue;
+}
 nav {
-    background-color: rgb(243, 232, 232);
+    background-color: rgb(144, 1, 1);
 }
 
 
@@ -46,7 +49,7 @@ main{
 }
 aside {
     flex: 30%;
-    background-color: rgb(235, 235, 246);
+    background-color: rgb(14, 14, 158);
     padding: 20px;
     flex-wrap: wrap;
 }
