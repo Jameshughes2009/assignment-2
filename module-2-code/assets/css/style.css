@@ -30,6 +30,7 @@ nav p {
     padding: 14px 20px;
     background-color: brown;
     text-align:right;
+    color: antiquewhite;
 }
 
 nav ul {
@@ -51,6 +52,14 @@ aside {
     flex: 1;
     background-color: rgb(14, 14, 158);
     padding: 20px;
+}
+aside h2 {
+    font-size: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+div p2  {
+    font-size: 100%;
 }
 
 .section {
