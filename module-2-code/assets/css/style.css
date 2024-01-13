@@ -53,6 +53,10 @@ aside {
     padding: 20px;
 }
 
+.section {
+    display: flex;
+}
+
 h1 {
     font-size: 100%;
 }
