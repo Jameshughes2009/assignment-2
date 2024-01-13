@@ -26,11 +26,13 @@ nav {
 }
 
 
-nav p {
+.title {
     padding: 14px 20px;
     background-color: brown;
+    height: 100px;
     text-align:right;
     color: antiquewhite;
+    margin: 0;
 }
 
 nav ul {
@@ -43,15 +45,16 @@ nav li {
     color: aqua;
     background-color: aqua;
 }
-main{
+/* main{
     display: flex;
     flex-wrap: wrap;
 
-}
+} */
 aside {
     flex: 1;
-    background-color: rgb(14, 14, 158);
+    /* background-color: rgb(14, 14, 158); */
     padding: 20px;
+    border-right: 2px solid black;
 }
 aside h2 {
     font-size: 100%;
@@ -68,6 +71,22 @@ div p2  {
 
 h1 {
     font-size: 100%;
+}
+.work{
+    display: flex;
+}
+.work h2{
+    border-right: 2px solid black;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.AboutMe{
+    display: flex;
+}
+.AboutMe h2{
+    border-right: 2px solid black;
+    margin-right: 20px;
+    padding-right: 20px;
 }
 
 
@@ -99,12 +118,4 @@ u2 {
 }
 
 .Surf img {
-}
-
-@media screen and (max-width: 768px) {
-    main,
-    nav {
-        flex-direction: column;
-
-    }
 }
