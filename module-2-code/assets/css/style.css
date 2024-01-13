@@ -70,6 +70,7 @@ h1 {
     font-size: 100%;
 }
 
+
 .sample-img {
     background-color: rgb(225, 224, 225);
     width: 100%;
@@ -91,4 +92,10 @@ u2 {
    color: rgb(13, 156, 108); 
    font-size: large;
    justify-content: space-between;
+}
+.Surf {
+    border-style: solid;
+}
+
+.Surf img {
 }
