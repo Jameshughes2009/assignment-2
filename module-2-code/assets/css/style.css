@@ -141,7 +141,7 @@ footer {
 }
 .Text {
     color: rgb(23, 30, 78);
-    background-color: grey;
+    background-color: rgb(129, 16, 16);
     
 }
 .Text p {
@@ -160,4 +160,5 @@ footer {
     padding-right: 20px;
     color: blue;
     background-color: rgb(4, 4, 4);
+    display: flex;
 }
