@@ -163,3 +163,12 @@ footer {
     background-color: rgb(4, 4, 4);
     display: flex;
 }
+.PageEnd h2 {
+    font-size:large;
+    background-color: white;
+    border-right:5px solid black ;
+    height: 80px;
+    margin: 0;
+    display: flex;
+    padding-right: 10px;
+}
