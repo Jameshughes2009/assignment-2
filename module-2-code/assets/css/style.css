@@ -136,5 +136,14 @@ u2 {
 } */
 .Surf {
     border-style: solid;
+    border-width: 5px;
 
+}
+.Text {
+    color: yellow;
+    background-color: grey;
+    
+}
+.Text a {
+    color: yellow;
 }
