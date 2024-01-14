@@ -118,11 +118,14 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: auto;
-    background-color: rgb(118, 6, 6);
-    color: pink;;
+    background-color: grey;
+    color: pink;
 
 }
 
+u2 {
+    color: yellow;
+}
 
 /* u2 {
    color: rgb(0, 0, 0); 
