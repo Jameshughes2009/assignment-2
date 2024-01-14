@@ -119,18 +119,18 @@ footer {
     justify-content: space-between;
     padding: auto;
     background-color: rgb(118, 6, 6);
-    color: rgb(10, 10, 218);
+    color: pink;;
 
 }
 
 
-u2 {
+/* u2 {
    color: rgb(0, 0, 0); 
    font-size: large;
    justify-content: space-between;
    padding: 15px;
-   min-width: 400px;
-}
+   min-width: px;
+} */
 .Surf {
     border-style: solid;
 
