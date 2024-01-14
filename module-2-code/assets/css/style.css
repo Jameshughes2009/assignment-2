@@ -68,14 +68,14 @@ aside {
     flex: 1;
     /* background-color: rgb(14, 14, 158); */
     padding: 20px;
-    border-right: 2px solid rgb(0, 0, 0);
+    border-right: 2px solid rgb(250, 0, 0);
     font-size: 100000px;
 }
-aside h2 {
+/* aside h2 {
     font-size: 100000%;
     display: flex;
     flex-wrap: wrap;
-}
+} */
 div p  {
     font-size: 100%;
 }
@@ -100,7 +100,7 @@ h1 {
     display: flex;
 }
 .AboutMe h2{
-    border-right: 2px solid black;
+    border-right: 1px solid black;
     margin-right: 20px;
     padding-right: 20px;
 }
@@ -123,9 +123,9 @@ footer {
 
 }
 
-u2 {
-    color: yellow;
-}
+/* u2 {
+    color: rgb(203, 203, 194);
+} */
 
 /* u2 {
    color: rgb(0, 0, 0); 
@@ -140,10 +140,24 @@ u2 {
 
 }
 .Text {
-    color: yellow;
+    color: rgb(23, 30, 78);
     background-color: grey;
     
 }
+.Text p {
+    font-size: x-large;
+    width: 900px;
+}
 .Text a {
-    color: yellow;
+    color: rgb(225, 225, 0);
+    font-size: 100%;
+    
+}
+
+.ContactMe h2 {
+    border-right: 2px;
+    margin-right: 20px;
+    padding-right: 20px;
+    color: blue;
+    background-color: rgb(4, 4, 4);
 }
