@@ -175,3 +175,6 @@ footer {
     display: flex;
     padding-right: 10px;
 }
+.Test {
+    flex: 4;
+}
