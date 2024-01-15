@@ -177,4 +177,7 @@ footer {
 }
 .Test {
     flex: 4;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
 }
